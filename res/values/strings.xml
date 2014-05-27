@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="arquivo_preferencia">com.br.pedro.paulo.monteiro.penpal.preference_file</string>
+    <string name="title_activity_amigo_no_mapa">AmigoNoMapaActivity</string>
+    <string name="rota_ate_amigo">Rota ate amigo</string>
+    <string name="title_activity_mensagens_recebidas">MensagensRecebidas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mensagem_a_enviar">Mensagem</string>
+    <string name="enviar_mensagem">Enviar</string>
+
+</resources>

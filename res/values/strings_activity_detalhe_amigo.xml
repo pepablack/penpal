@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome_amigo">Nome Amigo:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="email">Email:</string>
+    <string name="idioma">Idioma:</string>
+    
+</resources>

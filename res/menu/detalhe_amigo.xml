@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+  
+     <item android:id="@+id/localizarAmigo"
+          android:icon="@drawable/ic_action_locate"
+          android:title="@string/find_friends"
+          android:showAsAction="ifRoom" />
+
+</menu>
